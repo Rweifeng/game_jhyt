@@ -5,3 +5,5 @@ kenney_tiny_town	Kenney Tiny Town	场景/图块	Kenney	https://opengameart.org/c
 mushroom_village	Mushroom Village tileset	场景/图块	NettySvit	https://opengameart.org/content/mushroom-village-tileset	2026-09-02	1.0	CC0	是	是	否	是	assets/art/tilesets/mushroom_village	16x16；导入时按项目规范放大至32x32逻辑网格
 farm_topdown	Farm Top-Down Pixel Art Pack	场景/农田	KodaMonroezz Games	https://amadeva.itch.io/farm-top-down-pixel-art-pack-tiles-animals-tractors	待购买/下载	unknown	自定义许可	待确认	待确认	待确认	是	assets/art/tilesets/farm_topdown	仅建立预留目录；itch.io 页面资源需购买后下载
 chinese_garden	Chinese Garden Tileset	场景/中式庭院	BiteMe Games	https://bitemegames.itch.io/chinese-garden-tileset	待购买/下载	1.0	自定义许可	是	是	否	是	assets/art/tilesets/chinese_garden	仅建立预留目录；需购买后下载
+title_bg_png	《江湖有田》开始画面底图（月夜·水墨远山）	背景原画/UI	项目原创（tools/gen_title_bg.py）	工程内 tools/gen_title_bg.py	2026-09-07	1.0	项目原创	是	是	否	否	assets/art/title/title_bg.png	程序化生成 1280×720 RGB 无文字、无第三方素材；脚本可复现重跑微调
+lxgwwenkai_gb	LXGW WenKai GB（霞鹜文楷）Regular	中文字体	LXGW (github.com/lxgw/LxgwWenKaiGB)，含 Klee 上游	https://github.com/lxgw/LxgwWenKaiGB	2026-09-07	2026	SIL OFL 1.1	是	是	是	否	assets/fonts/LXGWWenKaiGB-Regular.ttf	自引擎编辑器字体目录复制；授权随附 assets/fonts/LXGWWenKaiGB-OFL.txt；含保留字体名条款，改版/再分发须遵守

@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "page-index",
+      "title": "山庄主场景 UI",
+      "type": "page",
+      "version": 1,
+      "createdAt": 1788739200000,
+      "canvasData": {
+        "x": 60,
+        "y": 0,
+        "group": 0,
+        "layoutSnapshot": {
+          "version": 1,
+          "contentHeight": 1547,
+          "viewportWidth": 1440,
+          "sourceHash": "fnv1a-001ec1c1",
+          "measuredAt": 1788847899589
+        }
+      },
+      "devMetadata": {
+        "htmlSrc": "pages/index.html",
+        "interactions": [
+          {
+            "domId": "landmark-farm",
+            "event": "click",
+            "action": "toggle-focus",
+            "targetPageId": "page-index"
+          },
+          {
+            "domId": "landmark-workshop",
+            "event": "click",
+            "action": "toggle-focus",
+            "targetPageId": "page-index"
+          },
+          {
+            "domId": "landmark-gate",
+            "event": "click",
+            "action": "toggle-focus",
+            "targetPageId": "page-index"
+          },
+          {
+            "domId": "btn-map",
+            "event": "click",
+            "action": "toggle-pressed",
+            "targetPageId": "page-index"
+          },
+          {
+            "domId": "btn-settings",
+            "event": "click",
+            "action": "toggle-pressed",
+            "targetPageId": "page-index"
+          },
+          {
+            "domId": "btn-time-cycle",
+            "event": "click",
+            "action": "toggle-pressed",
+            "targetPageId": "page-index"
+          },
+          {
+            "domId": "btn-weather-cycle",
+            "event": "click",
+            "action": "toggle-pressed",
+            "targetPageId": "page-index"
+          }
+        ],
+        "toolCallLedger": {
+          "source": "main-agent-runtime-trace",
+          "traceDigest": "repair-20260908-ui-scene"
+        }
+      }
+    },
+    {
+      "id": "image-001",
+      "title": "Tiny Town 村落地图",
+      "type": "image",
+      "version": 1,
+      "createdAt": 1788739200000,
+      "canvasData": {
+        "x": 0,
+        "y": 561,
+        "naturalSize": {
+          "width": 918,
+          "height": 515
+        }
+      },
+      "devMetadata": {
+        "imageSrc": "assets/village-map.png"
+      }
+    },
+    {
+      "id": "image-002",
+      "title": "山庄标题背景",
+      "type": "image",
+      "version": 1,
+      "createdAt": 1788739200000,
+      "canvasData": {
+        "x": 480,
+        "y": 561,
+        "naturalSize": {
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "devMetadata": {
+        "imageSrc": "assets/title-bg.png"
+      }
+    }
+  ],
+  "config": {
+    "autoLayout": true,
+    "deviceType": "desktop",
+    "projectName": "江湖有田 · 像素主场景 UI",
+    "visualEditorEnabled": false
+  }
+}
